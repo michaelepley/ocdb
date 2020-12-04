@@ -83,7 +83,6 @@ const configurator = {
     })
 
     config.optimization = {
-      minimizer: [uglifier]
     }
 
     return config
